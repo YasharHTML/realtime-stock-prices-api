@@ -11,7 +11,7 @@ COPY yarn.lock .
 
 RUN yarn install --frozen-lockfile
 
-COPY tsconfig* .
+COPY tsconfig* ./
 COPY libs libs
 COPY nest-cli.json .
 COPY apps/${ms} apps/${ms}
