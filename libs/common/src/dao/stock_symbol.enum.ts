@@ -1,0 +1,17 @@
+export enum StockSymbol {
+    AAPL = 'AAPL',
+    GOOGL = 'GOOGL',
+    MSFT = 'MSFT',
+    AMZN = 'AMZN',
+    FB = 'FB',
+    TSLA = 'TSLA',
+    JPM = 'JPM',
+    NVDA = 'NVDA',
+    V = 'V',
+    PYPL = 'PYPL',
+    NFLX = 'NFLX',
+    ORCL = 'ORCL',
+    WMT = 'WMT',
+    CSCO = 'CSCO',
+    BABA = 'BABA',
+  }

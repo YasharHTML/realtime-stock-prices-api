@@ -1,0 +1,7 @@
+test/
+dist/
+node_modules
+.eslintrc.js
+.gitignore
+.prettierrc
+.env
